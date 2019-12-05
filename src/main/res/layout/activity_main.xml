@@ -31,7 +31,7 @@
         android:textColor="#FFFFFF"
         android:textSize="15sp"
         android:fontFamily="@font/bitter_italic"
-        android:text="Share"
+        android:text="Share Quote"
         android:background="@drawable/custombtn"/>
 
 
